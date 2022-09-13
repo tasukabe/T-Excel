@@ -1,0 +1,20 @@
+
+        .._T Excel Manual_..
+
+***#&@,
+        1. '#' use for functional works.
+        2. '@' use to run/work anything.
+
+***Factorial,
+    * Factorial have 4 types :
+            1. 'i!' ==> int;
+            2. 'c!' ==> char;
+            3. 'f!' ==> float;
+            4. 's!' ==> string.
+
+
+>>>/#,
+
+    ** Store == "# [Factorial] {address of room} = {Data}"
+
+>>>/@,
